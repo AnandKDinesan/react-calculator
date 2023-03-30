@@ -1,0 +1,62 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+.container{
+  background-color: white;
+  width: 500px;
+  border-radius: 10px;
+  padding: 3rem;
+}
+.titleHeading{
+  font-size: 10px;
+  font-weight: 400;
+}
+.title_para{
+  padding-top: 5px;
+}
+.amountCard{
+  width: 470px;
+  height: 130px;
+  margin-top: 40px;
+  background-color: yellow;
+}
+.card_text{
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.total_amount{
+  font-size: 30px;
+  font-weight: 800;
+}
+.total_para{
+  font-size: 12px;
+}
+.text_area{
+  margin-top: 40px;
+
+}
+.input_box{
+  margin-top: 30px;
+  width: 470px;
+}
+.outlined-basic{
+  width: 470px;
+}
+.btn_group{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  width:200px;
+  height: 75px;
+}
